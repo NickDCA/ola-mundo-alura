@@ -1,5 +1,5 @@
 import SobreMim from "./paginas/SobreMim";
-import Inicio from "./paginas/inicio";
+import Inicio from "./paginas/Inicio";
 
 console.log(window.location);
 
